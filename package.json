@@ -1,0 +1,17 @@
+{
+  "name": "p5-playing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "p5": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "dev": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
